@@ -7,7 +7,7 @@
 
 # Bayesian Methods
 
-This repository contains the Bayesian Methods project developed during the Erasmus program at Nova FCT in Lisbon in Big Data Analytics and Engineering.
+This repository contains the **Bayesian Methods project** developed during the Erasmus program at Nova FCT in Lisbon in Big Data Analytics and Engineering.
 
 ## Description
 
